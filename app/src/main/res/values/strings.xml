@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DoorDash</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="restaurant_desc">Food, cuisine, type</string>
+    <string name="restaurant_cost">$50</string>
+    <string name="open_still">Open</string>
+    <string name="arriving_minutes">15 mins</string>
+    <string name="delivery_cost">$0.00</string>
+    <string name="review_ratings">4.0 / 5.0(1234ratings)</string>
+    <string name="restaurant_type">Italian</string>
+    <string name="error_message">It\'s not you, it\'s us..!! </string>
+</resources>

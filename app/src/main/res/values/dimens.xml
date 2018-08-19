@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="image_padding">80dp</dimen>
+    <dimen name="layout_padding">10dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="top_padding">5dp</dimen>
+    <dimen name="bottom_padding">5dp</dimen>
+    <dimen name="left_padding">5dp</dimen>
+    <dimen name="right_padding">5dp</dimen>
+    <dimen name="text_size">16dp</dimen>
+    <dimen name="medium_text_size">18dp</dimen>
+    <dimen name="large_text_size">24dp</dimen>
+
+</resources>
